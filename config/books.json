@@ -1,0 +1,47 @@
+[
+ {
+  "Title": "The adventures of Tom Sawyer",
+  "Autor": "Mark Twain",
+  "Cover": "https://covers.openlibrary.org/b/id/295577-L.jpg",
+  "Description": "The adventures and pranks of a mischievous boy growing up in a Mississippi River town in the early nineteenth century. Winner of the 1967 Lewis Carroll Shelf Award  ",
+  "Publication": "1997",
+  "Genres": "Fiction",
+  "ISBN": "0451526538"
+ },
+ {
+  "Title": "Inferno",
+  "Autor": "Dan Brown",
+  "Cover": "https://covers.openlibrary.org/b/id/10336269-L.jpg",
+  "Description": "In his international blockbusters The Da Vinci Code, Angels & Demons, and The Lost Symbol, Dan Brown masterfully fused history, art, codes, and symbols. In this riveting new thriller, Brown returns to his element and has crafted his highest-stakes novel to date.",
+  "Publication": "2013",
+  "Genres": "Fiction",
+  "ISBN": "0451526538"
+ },
+ {
+  "Title": "A Connecticut Yankee in King Arthur's court",
+  "Autor": "Mark Twain",
+  "Cover": "https://covers.openlibrary.org/b/id/9164123-L.jpg",
+  "Description": "A blow on the head transports a Yankee to 528 A.D. where he proceeds to modernize King Arthur's kingdom by organizing a school system, constructing telephone lines, and inventing the printing press.",
+  "Publication": "1995",
+  "Genres": "Fiction",
+  "ISBN": "9780552169585"
+ },
+ {
+  "Title": "Murder and mystery in Boston",
+  "Autor": "Carol-Lynn Rössel Waugh, Frank D. McSherry, Martin H. Greenberg",
+  "Cover": "https://covers.openlibrary.org/b/id/6768096-L.jpg",
+  "Description": "",
+  "Publication": "1987",
+  "Genres": "Mystery",
+  "ISBN": "9780552169585"
+ },
+ {
+  "Title": "Murder and mystery in Boston",
+  "Autor": "Edgar Allan Poe",
+  "Cover": "https://covers.openlibrary.org/b/id/8311559-L.jpg",
+  "Description": "",
+  "Publication": "1897",
+  "Genres": "Mystery",
+  "ISBN": "0451526759"
+ }
+]
